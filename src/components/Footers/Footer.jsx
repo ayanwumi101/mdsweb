@@ -31,7 +31,7 @@ const Footer = () => {
           <li className="flex justify-between text-lg"><FaInstagram/><FaFacebook/></li>
       </section>
 
-      <section className="text-sm mb-5">
+      <section className="text-sm mb-4">
         <h4 className="mb-5 text-bold text-xl font-semibold text-white">Support</h4>
           <li>+234(1)2718630</li>
           <li><a href="mailto:info@marketintelsolutions.com">info@marketintelsolutions.com</a></li>
